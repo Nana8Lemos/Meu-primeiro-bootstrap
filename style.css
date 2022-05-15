@@ -1,0 +1,29 @@
+
+body {
+    font: 20px italic
+}
+
+.navbar {
+    background-color: rgb(181, 176, 176);
+}
+
+.Café {
+    background-color:#39692C ;
+    color:white;
+}   
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.produto {
+    background-color:#430606  ;
+    color: white;
+}
+
+.bg-footer {
+    background-color:rgb(181, 176, 176) ;
+}
+
+
